@@ -25,6 +25,7 @@ Thumbs.db
 # Generated model files
 *.pkl
 *.joblib
+!models/preprocessing_artifacts.joblib
 
 # Temporary files
 *.log
